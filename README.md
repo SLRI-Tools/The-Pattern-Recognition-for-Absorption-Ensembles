@@ -24,3 +24,5 @@ License: Free for academic and non-commercial research purposes.
 Citation: If ThePrae assists in your research, please consider citing it as:
 ThePrae Software (v1.0.7), SLRI-Tools, [https://github.com/SLRI-Tools/The-Pattern-Recognition-for-Absorption-Ensembles/]
 
+Contact
+For further inquiries, please contact: anan@slri.or.th
