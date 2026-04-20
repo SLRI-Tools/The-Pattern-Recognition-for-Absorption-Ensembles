@@ -12,13 +12,15 @@ Minimalist UI: Designed for a short learning curve, allowing researchers to focu
 📦 Getting Started:
 The software is currently distributed as a standalone Windows installer (.exe) for ease of use. No additional libraries are required.
 Navigate to the Releases section on the right.
-Download [https://github.com/SLRI-Tools/The-Pattern-Recognition-for-Absorption-Ensembles/releases/]
+Download the latest version from the [Releases](https://github.com/SLRI-Tools/The-Pattern-Recognition-for-Absorption-Ensembles/releases/) page.
 Run the installer and follow the on-screen instructions.
 
 🛠 Developer’s Note:
 Please note that this is an ongoing project. I am very open to feedback and suggestions from the community to improve the algorithms and features in future updates.
+For feedback or bug reports, please open an issue in this repository or contact the beamline scientists.
 
 📜 License & Citation
 License: Free for academic and non-commercial research purposes.
 Citation: If ThePrae assists in your research, please consider citing it as:
 ThePrae Software (v1.0.7), SLRI-Tools, [https://github.com/SLRI-Tools/The-Pattern-Recognition-for-Absorption-Ensembles/]
+
