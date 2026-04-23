@@ -1,7 +1,7 @@
-The Pattern Recognition for Absorption Ensembles
+The Persistent Reconstruction of Absorption Ensembles
 (Version 1.0.7 - SLRI-Tools)
 
-ThePrae is a lightweight software suite designed to streamline the handling of large-scale XAS datasets. Developed with a focus on high-throughput processing, its primary goal is to reduce the manual workload in data preparation and preliminary analysis.
+The Persistent Reconstruction of Absorption Ensembles (ThePrae) is a lightweight software suite designed to streamline the handling of large-scale XAS datasets. Developed with a focus on high-throughput processing, its primary goal is to reduce the manual workload in data preparation and preliminary analysis.
 This software was developed to solve the 'big data' bottleneck at XAS beamlines. With a focus on stability and speed, it can transform days of work into minutes by applying efficient numerical methods to data normalization and spectral matching.
 
 🚀 Key Features (Early Release):
@@ -12,7 +12,7 @@ Minimalist UI: Designed for a short learning curve, allowing researchers to focu
 📦 Getting Started:
 The software is currently distributed as a standalone Windows installer (.exe) for ease of use. No additional libraries are required.
 Navigate to the Releases section on the right.
-Download the latest version from the [Releases](https://github.com/SLRI-Tools/The-Pattern-Recognition-for-Absorption-Ensembles/releases/) page.
+Download the latest version from the [Releases](https://github.com/SLRI-Tools/The-Persistent-Recognition-for-Absorption-Ensembles/releases/) page.
 Run the installer and follow the on-screen instructions.
 
 🛠 Developer’s Note:
@@ -22,7 +22,7 @@ For feedback or bug reports, please open an issue in this repository or contact 
 📜 License & Citation
 License: Free for academic and non-commercial research purposes.
 Citation: If ThePrae assists in your research, please consider citing it as:
-ThePrae Software (v1.0.7), SLRI-Tools, [https://github.com/SLRI-Tools/The-Pattern-Recognition-for-Absorption-Ensembles/]
+ThePrae Software (v1.0.7), SLRI-Tools, [https://github.com/SLRI-Tools/The-Persistent-Recognition-for-Absorption-Ensembles/]
 
 Contact
 For further inquiries, please contact: anan@slri.or.th
